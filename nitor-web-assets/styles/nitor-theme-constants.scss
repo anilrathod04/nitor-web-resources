@@ -1,0 +1,53 @@
+/* SRAI global style variables. */
+
+$font-family: "open sans",
+"Helvetica Neue",
+Helvetica,
+Arial,
+sans-serif;
+$font-bold: 600;
+$font-light: 300;
+$base-font: 13px;
+$small-font: 11px;
+
+$primary-dark-bg: #102935;
+$secondary-dark-bg: #246579;
+$tertiary-dark-bg: #7ba2ad;
+
+$n-background: #f2f2f2;
+$n-background-dark: #121212;
+
+$blue-0:#193c47;
+$blue-1:#185ba9;
+$blue-2:#AECFDF;
+$blue-3:#f2f6fb;
+$blue-4:#f6f9fb;
+
+$green: #65c6aa;
+$green-1:#00ce7c;
+$green-2:#92c92b;
+
+$red-1:#b21d21;
+$red-2:#f15137;
+
+$orange-1:#e67e27;
+
+$white: #fff;
+
+$black-0: #000000;
+$black-1: #333f48;
+$black-2: #74737b;
+$black-3: #9e9e9e;
+$black-4: #cecece;
+$black-5: #e2e2e2;
+$black-6: #fafafa;
+$black-7: #e7eaed;
+
+$white-text: $white;
+$btn-primary:#0e77b1;
+$btn-secondary:$white;
+
+$b-radius-boxes:0.2rem;
+$b-radius-controls:0.1rem;
+
+$text-color: #444;
