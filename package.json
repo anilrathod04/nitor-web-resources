@@ -2,15 +2,22 @@
   "name": "nitor-web-resources",
   "description": "Nitor web resources with extensive collection style guides and reusable templates.",
   "version": "1.0.0",
-  "repository": "https://github.com/anilrathod04/nitor-web-resources",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilrathod04/nitor-web-resources.git"
+  },
   "author": "Anil Rathod <anilrathod04@gmail.com>",
-  "license": "ISC",
-  "main": "index.js",
-  "style": "nitor-web-resources/styles/nitor-common.scss",
-  "keywords": ["Nitor Web Resource", "Nitor", "Nitor UI"],
-  "files": [
-    "/*"
+  "bugs": {
+    "url": "https://github.com/anilrathod04/nitor-web-resources/issues"
+  },
+  "homepage": "https://github.com/anilrathod04/nitor-web-resources",
+  "keywords": [
+    "Nitor Web Resource",
+    "Nitor",
+    "Nitor UI"
   ],
+  "license": "MIT",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
