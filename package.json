@@ -1,7 +1,7 @@
 {
   "name": "nitor-web-resources",
   "description": "Nitor web resources with extensive collection style guides and reusable templates.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anilrathod04/nitor-web-resources.git"
